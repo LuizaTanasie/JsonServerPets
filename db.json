@@ -1,10 +1,10 @@
 {
   "pets": [
     { "key": 1, "kind" : " dog", "breed": "chow chow", "img" : "http://www.pawsplaygrounds.com/wp-content/uploads/2016/12/Chow-Chow-dog.jpg" 
-    "description":"Rex is a fluffy good boy."},
+    ,"description":"Rex is a fluffy good boy."},
     { "key": 2, "kind" : " dog", "breed": "golden retriever", "img" : "http://www.zooland.ro/data/ImageNew/image/caini/WizzdomOfSoulcharisma.jpg" 
-    "description":"Chops is a fluffy good boy."},
-    { "key": 3, "kind" : " cat", "breed": "persian", "img" : "https://i.ytimg.com/vi/cnwwPdThPUQ/hqdefault.jpg" "description":"Nola is a fluffy good girl."}
+    ,"description":"Chops is a fluffy good boy."},
+    { "key": 3, "kind" : " cat", "breed": "persian", "img" : "https://i.ytimg.com/vi/cnwwPdThPUQ/hqdefault.jpg", "description":"Nola is a fluffy good girl."}
   ],
   "profile": { "name": "typicode" }
 }
